@@ -48,5 +48,4 @@ Besides pursuing my degree, I'm eager to learn front-end web development, improv
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
